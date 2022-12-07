@@ -1,8 +1,3 @@
-/**
- * @author : gwachs (gwachs@$HOSTNAME)
- * @file : main
- * @created : quinta out 07, 2021 14:17:23 -03
- */
 
 
 interface IFila {
